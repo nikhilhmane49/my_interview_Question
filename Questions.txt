@@ -1,0 +1,14 @@
+:
+
+💻 Full Stack Developer Interview Questions – Basics
+1️⃣ 🔐 What is authentication and authorization?
+2️⃣ 🧾 What are props in React?
+3️⃣ ❓ What is the difference between == and === in JavaScript?
+4️⃣ 🧪 What is the output of the following code and why?
+const name = "nikhil";
+console.log(name);
+5️⃣ 📱 What is the one line in HTML to make the website responsive?
+6️⃣ 🍃 What are documents and collections in MongoDB?
+7️⃣ 🍪 What are cookies?
+8️⃣ 🏗️ While creating a model in Node.js + Express.js + Mongoose, does the model name directly reflect the collection name or is something added?
+9️⃣ ⚛️ Why do we use React instead of plain HTML?
