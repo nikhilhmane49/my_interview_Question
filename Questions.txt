@@ -1,4 +1,4 @@
-:
+
 
 💻 Full Stack Developer Interview Questions – Basics
 1️⃣ 🔐 What is authentication and authorization?
