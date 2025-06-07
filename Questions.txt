@@ -1,14 +1,20 @@
 
 
 💻 Full Stack Developer Interview Questions – Basics
-1️⃣ 🔐 What is authentication and authorization?
-2️⃣ 🧾 What are props in React?
-3️⃣ ❓ What is the difference between == and === in JavaScript?
-4️⃣ 🧪 What is the output of the following code and why?
+1 🔐 What is authentication and authorization?
+2️ 🧾 What are props in React?
+3️ ❓ What is the difference between == and === in JavaScript?
+4️ 🧪 What is the output of the following code and why?
 const name = "nikhil";
 console.log(name);
-5️⃣ 📱 What is the one line in HTML to make the website responsive?
-6️⃣ 🍃 What are documents and collections in MongoDB?
-7️⃣ 🍪 What are cookies?
-8️⃣ 🏗️ While creating a model in Node.js + Express.js + Mongoose, does the model name directly reflect the collection name or is something added?
-9️⃣ ⚛️ Why do we use React instead of plain HTML?
+5️ 📱 What is the one line in HTML to make the website responsive?
+6️ 🍃 What are documents and collections in MongoDB?
+7️ 🍪 What are cookies?
+8️ 🏗️ While creating a model in Node.js + Express.js + Mongoose, does the model name directly reflect the collection name or is something added?
+9️ ⚛️ Why do we use React instead of plain HTML?
+const name = "nikhil";
+age = "21";
+
+10 console.log(delete name); // ?
+console.log(delete age);  // ?
+❓ What will be the output of the above code and why does delete name return false while delete age returns true?
