@@ -18,3 +18,6 @@ age = "21";
 10 console.log(delete name); // ?
 console.log(delete age);  // ?
 ❓ What will be the output of the above code and why does delete name return false while delete age returns true?
+
+11 what is the file formate of the MERN stack?
+12 what is jwt ?
